@@ -19,7 +19,7 @@ Este é um simples aplicativo de calculadora de despesas criado em Python usando
 3. Execute o aplicativo com o seguinte comando:
 
    ```bash
-   python nome_do_arquivo.py
+   despesas.py
    ```
 
    Certifique-se de que o Python 3.x esteja instalado em seu sistema.
