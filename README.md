@@ -34,7 +34,7 @@ Este é um simples aplicativo de calculadora de despesas criado em Python usando
 
 ## Contribuições 😊
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou enviar solicitações de recebimento.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar solicitações Pull Request.
 
 ## Autor 👔
 
